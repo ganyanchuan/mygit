@@ -1,0 +1,3 @@
+item0001,jane,22,shanghai
+item0002,sam,45,beijing
+item0004,tmomas,33,nanjing
